@@ -1,29 +1,29 @@
-#Workclub
+#Workclub#
 
-##Folder Structure
+##Folder Structure##
 
-1)public
-2)src
-  ->components
+1. public
+2. src
+  1. components
     1)users
     
-    `->add.js    
-     ->count.js     
-     ->edit.js
-     ->form.js
-     -list.js
-     ->listitem.js
+    `1. add.js    
+     2. count.js     
+     3. edit.js
+     4. form.js
+     5. list.js
+     6. listitem.js
      
     2)login.js
     
     3)main.js
     
-  ->queries
-    *users.js
-3)package.json
+  2. queries
+    1. users.js
+3). package.json
 
 
-#Run Project
+##Run Project##
 
 1)clone the repository.
 2)open the project in terminal/bash.
