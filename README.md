@@ -13,14 +13,14 @@ In the project directory, you can run:
 
 To install all the dependency and npm packages necessary to run the project.
 
-#### 2. `npm start`
+#### 3. `npm start`
 
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 
-#### `npm run build`
+#### 4. `npm run build`
 
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -35,17 +35,17 @@ Your app is ready to be deployed!
 	
 2. src
 	1. components
-		*users
+		1. users
 			1. add
 			2. edit
 			3. count
 			4. form
 			5. list
 			6. listitem	
-		*Login
-		*Main
+		2. Login
+		3. Main
 	2. queries
-		*users
+		1. users
 	3. App.js
 	4. Index.js
 	5. UserPool.js
